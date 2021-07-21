@@ -1,0 +1,14 @@
+a {
+    border: 1px solid;
+    color: black;
+    font-weight: bold;
+    padding: 5px;
+    text-decoration: none;
+}
+.loginpg {
+display: block;
+}
+table,tr,td,th{
+    border: 1px solid black;
+    border: collapsed;
+}
